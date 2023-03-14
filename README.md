@@ -29,4 +29,6 @@
 
 ## ハンズオン
 
-[こちらのページ](https://github.com/shu-adachi/credit-card-campaign-response-prediction)へ移動してください。
+任意のシナリオを選択してください。
+
+- [クレジットカードのキャンペーン反応予測](https://github.com/shu-adachi/credit-card-campaign-response-prediction)
