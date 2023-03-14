@@ -29,4 +29,4 @@
 
 ## ハンズオン
 
-[こちらのページ](./HandsOn.md)へ移動してください。
+[こちらのページ](https://github.com/shu-adachi/credit-card-campaign-response-prediction)へ移動してください。
