@@ -1,4 +1,4 @@
-# WatsonStudio_SPSS-Modeler-Flow
+# WatsonStudio(SPSS Modeler Flow)ハンズオン
 
 ## 免責
 
