@@ -32,4 +32,4 @@
 任意のシナリオを選択してください。
 
 - [クレジットカードのキャンペーン反応予測](https://github.com/shu-adachi/credit-card-campaign-response-prediction)
-- 故障予知（作成中)
+- [故障予知](https://github.com/shu-adachi/failure-prediction)
